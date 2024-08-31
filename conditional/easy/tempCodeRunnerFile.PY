@@ -1,5 +1,3 @@
-# Write a program to determine if a given year is a leap year.
-
 year = 1992
 
 def leap():
